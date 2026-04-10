@@ -139,6 +139,7 @@ Built by **Rajesh Kumar**
 - Enterprise AI Architect & Data Scientist
 - Passionate about education and tech careers
 - GitHub: [@RzLetsCode](https://github.com/RzLetsCode)
+- LinkedIn : [RajeshKumar](https://www.linkedin.com/in/rajesh-kumar-04405962/)
 
 ## 🎯 Mission
 
